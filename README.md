@@ -38,8 +38,8 @@ The results of the analysis will include:
 
 
 # Recommendations:
-Enhanced Marketing Strategies
-![image](https://github.com/Smeerel/Superstore-Sales-Overview/assets/143562418/97389b42-e019-48c7-bd21-633526f91bdd)
+![image](https://github.com/Smeerel/Superstore-Sales-Overview/assets/143562418/a1355fae-5b16-41e7-9100-d82d8c5e7c4b)
+
 
 
 
