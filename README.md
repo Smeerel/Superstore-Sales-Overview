@@ -27,6 +27,8 @@ The analysis involves the following steps:
 - Interpretation: Interpreting the analysis's results and identifying key factors contributing to sales trend.
 
 # Results:
+![powerbi superstore report](https://github.com/Smeerel/Superstore-Sales-Overview/assets/143562418/789b26fe-0d73-4fa0-8003-31f2559c00f3)
+
 The results of the analysis will include:
 - Visualizations illustrating key findings.
 - Insights into factors influencing sales.
