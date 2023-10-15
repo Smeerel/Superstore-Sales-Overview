@@ -1,7 +1,7 @@
 ## Superstore-Sales-Overview
 
 # Introduction:
-This repository provides a visualization of the Superstore sales trend report created using Power BI. This report aims to  provides  valuable insights into sales trends and aid in enhancing sales performance.
+This repository provides a visualization of the Superstore sales trend report created using Power BI. This report aims to  provide valuable insights into sales trend and aid in enhancing sales performance.
 
 # Dataset: 
 The dataset used in this project is related to a Large Retail Business.
